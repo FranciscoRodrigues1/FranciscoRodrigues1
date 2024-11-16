@@ -1,0 +1,4 @@
+- 👋 Oi, sou Francisco Rodrigues..
+- 👀 Estou Interessado em aprender a Desenvolvimento de sistemas..
+- 🌱 Atualmente estudo Desenvolvimento  no Progeto Geraçao Tech ...
+- ⚽ Apaixonado por futebol..
